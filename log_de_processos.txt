@@ -1,0 +1,4824 @@
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 42
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 1
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 20
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 6
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 12
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 24
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 27
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 36
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 2
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 1
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 50
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 11
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 42
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 30
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 50
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 49
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 50
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 50
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 1
+Número de vezes que usou a CPU: 1
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 14
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 9
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 130
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 1
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 43
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 2
+
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 50
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 36
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 1
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 82
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 50
+Estado do Processo: EXECUTANDO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 2
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 56
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 70
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 2
+Número de vezes que usou a CPU: 1
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 31
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 2
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 19
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 1
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 185
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 1
+
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 50
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 2
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 51
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 1
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 49
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 1
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 87
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 1
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 72
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 2
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 63
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 1
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 130
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 3
+Número de vezes que usou a CPU: 2
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 34
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 2
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 35
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 2
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 192
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 2
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 68
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 2
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 66
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 1
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 50
+Estado do Processo: EXECUTANDO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 2
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 122
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 1
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 113
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 2
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 75
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 1
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 133
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 2
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 50
+Estado do Processo: EXECUTANDO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 3
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 50
+Estado do Processo: EXECUTANDO
+Número de vezes que realizou E/S: 4
+Número de vezes que usou a CPU: 3
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 210
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 3
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 82
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 3
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 94
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 1
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 51
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 2
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 149
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 1
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 145
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 2
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 96
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 1
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 158
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 2
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 68
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 3
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 54
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 5
+Número de vezes que usou a CPU: 3
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 211
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 3
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 83
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 3
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 102
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 1
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 58
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 3
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 153
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 1
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 150
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 2
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 109
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 2
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 162
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 2
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 72
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 4
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 68
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 6
+Número de vezes que usou a CPU: 3
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 225
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 3
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 95
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 4
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 127
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 2
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 78
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 4
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 157
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 2
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 168
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 2
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 118
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 2
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 190
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 2
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 80
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 4
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 90
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 7
+Número de vezes que usou a CPU: 4
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 251
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 4
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 113
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 5
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 129
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 2
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 90
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 4
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 159
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 2
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 215
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 2
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 125
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 2
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 200
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 2
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 92
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 4
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 115
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 8
+Número de vezes que usou a CPU: 5
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 254
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 4
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 121
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 5
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 130
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 2
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 112
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 4
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 161
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 2
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 217
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 3
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 148
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 3
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 216
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 2
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 99
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 118
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 9
+Número de vezes que usou a CPU: 6
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 255
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 5
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 125
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 6
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 217
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 2
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 120
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 5
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 165
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 2
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 221
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 3
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 197
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 4
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 218
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 3
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 130
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 122
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 10
+Número de vezes que usou a CPU: 6
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 304
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 5
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 127
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 7
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 238
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 3
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 123
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 5
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 169
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 2
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 234
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 3
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 217
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 5
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 244
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 3
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 131
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 144
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 11
+Número de vezes que usou a CPU: 6
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 320
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 5
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 195
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 7
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 245
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 3
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 127
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 5
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 170
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 2
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 252
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 3
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 277
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 5
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 250
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 3
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 139
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 147
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 12
+Número de vezes que usou a CPU: 7
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 379
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 6
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 204
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 8
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 248
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 4
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 134
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 5
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 202
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 3
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 266
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 3
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 293
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 6
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 264
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 3
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 156
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 188
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 13
+Número de vezes que usou a CPU: 8
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 401
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 7
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 208
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 9
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 260
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 4
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 212
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 6
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 231
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 4
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 280
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 4
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 329
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 6
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 315
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 3
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 168
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 214
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 14
+Número de vezes que usou a CPU: 8
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 480
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 8
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 223
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 9
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 277
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 4
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 253
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 7
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 267
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 5
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 291
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 4
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 355
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 7
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 361
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 3
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 185
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 223
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 15
+Número de vezes que usou a CPU: 8
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 526
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 8
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 229
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 9
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 281
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 4
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 257
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 7
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 269
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 6
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 304
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 4
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 366
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 7
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 364
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 4
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 199
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 243
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 16
+Número de vezes que usou a CPU: 8
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 536
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 8
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 250
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 9
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 282
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 4
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 258
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 7
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 276
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 6
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 317
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 4
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 378
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 7
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 405
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 4
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 204
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 246
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 17
+Número de vezes que usou a CPU: 8
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 538
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 8
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 313
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 9
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 293
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 5
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 271
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 7
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 281
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 6
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 364
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 5
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 397
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 7
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 409
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 5
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 252
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 252
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 18
+Número de vezes que usou a CPU: 8
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 553
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 8
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 314
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 10
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 314
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 6
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 285
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 7
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 341
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 6
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 382
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 5
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 400
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 7
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 444
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 6
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 253
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 5
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 272
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 19
+Número de vezes que usou a CPU: 8
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 561
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 8
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 341
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 10
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 320
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 6
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 291
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 7
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 346
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 6
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 393
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 5
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 412
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 8
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 489
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 6
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 306
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 6
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 292
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 20
+Número de vezes que usou a CPU: 9
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 564
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 8
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 392
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 10
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 350
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 6
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 292
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 7
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 423
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 7
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 461
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 6
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 453
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 8
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 496
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 7
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 329
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 6
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 303
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 21
+Número de vezes que usou a CPU: 10
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 577
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 9
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 400
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 11
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 354
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 6
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 305
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 7
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 438
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 7
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 465
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 7
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 493
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 9
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 516
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 7
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 358
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 6
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 332
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 22
+Número de vezes que usou a CPU: 11
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 582
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 9
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 409
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 12
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 362
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 6
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 323
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 8
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 474
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 8
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 511
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 7
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 522
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 9
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 547
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 7
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 372
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 7
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 379
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 23
+Número de vezes que usou a CPU: 11
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 614
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 9
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 419
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 13
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 389
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 6
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 324
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 8
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 486
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 8
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 512
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 7
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 578
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 9
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 556
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 8
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 375
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 7
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 425
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 24
+Número de vezes que usou a CPU: 12
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 666
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 9
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 436
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 14
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 394
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 6
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 371
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 8
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 491
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 8
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 536
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 7
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 612
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 10
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 570
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 8
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 384
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 7
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 458
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 25
+Número de vezes que usou a CPU: 12
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 686
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 9
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 449
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 14
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 403
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 7
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 373
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 8
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 501
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 9
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 541
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 7
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 634
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 10
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 572
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 8
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 389
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 8
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 530
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 26
+Número de vezes que usou a CPU: 12
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 691
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 480
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 15
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 435
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 7
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 377
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 9
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 529
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 9
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 545
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 7
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 668
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 10
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 581
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 9
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 405
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 8
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 544
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 27
+Número de vezes que usou a CPU: 13
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 703
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 489
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 15
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 438
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 7
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 384
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 9
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 534
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 10
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 569
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 7
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 669
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 11
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 593
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 10
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 437
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 8
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 546
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 28
+Número de vezes que usou a CPU: 14
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 743
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 499
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 16
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 450
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 8
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 401
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 9
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 584
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 10
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 571
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 8
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 683
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 11
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 666
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 10
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 481
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 9
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 569
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 29
+Número de vezes que usou a CPU: 14
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 755
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 503
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 17
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 461
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 8
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 450
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 9
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 594
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 11
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 596
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 8
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 728
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 11
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 671
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 10
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 516
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 10
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 573
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 30
+Número de vezes que usou a CPU: 15
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 757
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 520
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 18
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 469
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 8
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 490
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 9
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 776
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 11
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 604
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 8
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 761
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 11
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 697
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 10
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 535
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 10
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 594
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 31
+Número de vezes que usou a CPU: 15
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 784
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 526
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 19
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 470
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 9
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 532
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 10
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 777
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 11
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 631
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 9
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 800
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 11
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 712
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 11
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 627
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 10
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 605
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 32
+Número de vezes que usou a CPU: 15
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 787
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 563
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 19
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 481
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 9
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 538
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 10
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 817
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 12
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 642
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 9
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 852
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 12
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 737
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 12
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 632
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 11
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 644
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 33
+Número de vezes que usou a CPU: 15
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 815
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 569
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 19
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 513
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 9
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 551
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 11
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 822
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 13
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 649
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 9
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 890
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 12
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 741
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 13
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 642
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 11
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 654
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 34
+Número de vezes que usou a CPU: 15
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 842
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 589
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 19
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 527
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 10
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 560
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 11
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 834
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 14
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 659
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 9
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 897
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 12
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 748
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 14
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 647
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 11
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 677
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 35
+Número de vezes que usou a CPU: 15
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 859
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 606
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 20
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 598
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 11
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 566
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 11
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 864
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 14
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 667
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 9
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 911
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 12
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 761
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 15
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 679
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 11
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 689
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 36
+Número de vezes que usou a CPU: 16
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 867
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 614
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 21
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 605
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 11
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 610
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 12
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 881
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 15
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 668
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 10
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 916
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 13
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 763
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 15
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 712
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 11
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 701
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 37
+Número de vezes que usou a CPU: 17
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 921
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 617
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 21
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 635
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 11
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 641
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 12
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 887
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 15
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 673
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 10
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 956
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 13
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 784
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 16
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 769
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 11
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 707
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 38
+Número de vezes que usou a CPU: 17
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 927
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 638
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 21
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 645
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 11
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 680
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 12
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 899
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 15
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 693
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 11
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 980
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 13
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 825
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 16
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 827
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 11
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 735
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 39
+Número de vezes que usou a CPU: 17
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 933
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 670
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 21
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 647
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 12
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 732
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 12
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 906
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 15
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 696
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 12
+
+Processo 6 >>> BLOQUEADO >>> PRONTO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1011
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 0
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 860
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 16
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 868
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 12
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 762
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 40
+Número de vezes que usou a CPU: 18
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 950
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 676
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 22
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 660
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 12
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 747
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 12
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 926
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 15
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 704
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 12
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1032
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 0
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 863
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 16
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 878
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 12
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 769
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 41
+Número de vezes que usou a CPU: 18
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 979
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 10
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 701
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 23
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 702
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 12
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 753
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 12
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 934
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 15
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 843
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 12
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1040
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 1
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 891
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 16
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 899
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 12
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 783
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 42
+Número de vezes que usou a CPU: 18
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> EXECUTANDO >>> PRONTO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 1022
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 0
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 707
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 24
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> PRONTO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 708
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 13
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 771
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 13
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 943
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 16
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 851
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 13
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1049
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 2
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> PRONTO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 893
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 16
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 944
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 13
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 796
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 43
+Número de vezes que usou a CPU: 18
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 1027
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 1
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 712
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 24
+
+Processo 2 >>> EXECUTANDO
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 716
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 14
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 790
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 13
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 958
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 16
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 892
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 13
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1111
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 2
+
+Processo 7 >>> EXECUTANDO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 920
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 17
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> PRONTO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 983
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 14
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 818
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 44
+Número de vezes que usou a CPU: 18
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> PRONTO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 1030
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 1
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 726
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 25
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 723
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 14
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 801
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 13
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> PRONTO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 960
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 16
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 907
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 13
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1162
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 2
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 976
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 17
+
+Processo 8 >>> EXECUTANDO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 993
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 15
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 865
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 45
+Número de vezes que usou a CPU: 18
+
+Processo 0 >>> EXECUTANDO
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 1032
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 2
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 757
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 26
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 730
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 14
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 809
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 13
+
+Processo 4 >>> EXECUTANDO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 965
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 17
+
+Processo 5 >>> EXECUTANDO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 920
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 14
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1195
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 2
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 980
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 17
+
+Processo 8 >>> BLOQUEADO >>> PRONTO
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 1012
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 0
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 908
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 46
+Número de vezes que usou a CPU: 18
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 1046
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 2
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> PRONTO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 782
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 26
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 733
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 14
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 816
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 14
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 995
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 17
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 944
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 14
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1198
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 2
+
+Processo 7 >>> BLOQUEADO >>> PRONTO
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 1012
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 0
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 1025
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 0
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 969
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 47
+Número de vezes que usou a CPU: 18
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 1081
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 2
+
+Processo 1 >>> EXECUTANDO
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 816
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 27
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 743
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 14
+
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> PRONTO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 836
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 14
+
+Processo 4 >>> BLOQUEADO >>> PRONTO
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 1019
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 0
+
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 947
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 14
+
+Processo 6 >>> EXECUTANDO
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1221
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 3
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 1063
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 0
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 1028
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 0
+
+Processo 9 >>> EXECUTANDO
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 973
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 48
+Número de vezes que usou a CPU: 19
+
+Processo 0 >>> BLOQUEADO
+Processo 0 >>> TERMINADO
+PID: 0
+Tempo de Execução: 10000
+Contador de Programa: 1166
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 50
+Número de vezes que usou a CPU: 2
+
+Processo 1 >>> BLOQUEADO
+Processo 1 >>> TERMINADO
+PID: 1
+Tempo de Execução: 5000
+Contador de Programa: 830
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 27
+
+Processo 2 >>> BLOQUEADO
+Processo 2 >>> TERMINADO
+PID: 2
+Tempo de Execução: 7000
+Contador de Programa: 765
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 14
+
+Processo 3 >>> EXECUTANDO
+Processo 3 >>> BLOQUEADO
+Processo 3 >>> TERMINADO
+PID: 3
+Tempo de Execução: 3000
+Contador de Programa: 840
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 15
+
+Processo 4 >>> BLOQUEADO
+Processo 4 >>> TERMINADO
+PID: 4
+Tempo de Execução: 3000
+Contador de Programa: 1030
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 0
+
+Processo 5 >>> BLOQUEADO >>> PRONTO
+Processo 5 >>> BLOQUEADO
+Processo 5 >>> PRONTO
+Processo 5 >>> TERMINADO
+PID: 5
+Tempo de Execução: 8000
+Contador de Programa: 1007
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 0
+
+Processo 6 >>> BLOQUEADO
+Processo 6 >>> PRONTO
+Processo 6 >>> TERMINADO
+PID: 6
+Tempo de Execução: 2000
+Contador de Programa: 1234
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 3
+
+Processo 7 >>> BLOQUEADO
+Processo 7 >>> TERMINADO
+PID: 7
+Tempo de Execução: 5000
+Contador de Programa: 1093
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 0
+
+Processo 8 >>> BLOQUEADO
+Processo 8 >>> TERMINADO
+PID: 8
+Tempo de Execução: 4000
+Contador de Programa: 1052
+Estado do Processo: BLOQUEADO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 0
+
+Processo 9 >>> BLOQUEADO
+Processo 9 >>> PRONTO
+Processo 9 >>> TERMINADO
+PID: 9
+Tempo de Execução: 10000
+Contador de Programa: 987
+Estado do Processo: PRONTO
+Número de vezes que realizou E/S: 49
+Número de vezes que usou a CPU: 19
+
